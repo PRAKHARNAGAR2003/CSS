@@ -1,0 +1,29 @@
+body{
+    background-image: url(ZiClJf-1920w.jpg);
+}
+.Intro{
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 50px;
+    border-style: dashed;
+    border-width: thick;
+    border-radius: 10px;
+    padding: 40px 40px 40px 40px;
+}
+b{
+    margin-left: 50px;
+    color: whitesmoke;
+    font-size: 30px;
+}
+p{
+    margin-left: inherit;
+    border-style: solid dotted ridge inset;
+    border-width: thick;
+    border-color: chartreuse skyblue darkorange lemonchiffon;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    border-style: ridge;
+}

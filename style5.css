@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+
+table,th,td{
+    border: 2px solid black;
+    width: 30%;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+tr:hover{
+    background-color: cornflowerblue;
+    color: azure;
+}

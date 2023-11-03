@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+    text-align: center;
+    vertical-align: middle;
+}
+h1{
+    height: 90px;
+    width: 50%;
+    background-color: blueviolet;
+    color: white;
+    text-decoration: overline underline;
+    text-decoration-color: cornsilk;
+}
+h2{
+    height: 90px;
+    width: 50%;
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: overline underline;
+    text-decoration-color: cornsilk;
+}
+p{
+    height: 90px;
+    width: 50%;
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    text-decoration: overline underline;
+    text-decoration-color: cornsilk;
+}

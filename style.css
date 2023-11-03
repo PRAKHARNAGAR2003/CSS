@@ -1,0 +1,12 @@
+/* body{
+    background-color: beige;
+} */
+
+/* Selectors */
+
+#welcome{
+    background-color: beige;
+}
+h1.Hello{
+    color: blue;
+}
